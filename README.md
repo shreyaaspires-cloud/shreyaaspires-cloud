@@ -78,7 +78,7 @@ An AI-assisted exam monitoring system designed to analyse examination environmen
 
 **Technologies:** Python, FastAPI, Next.js, PyTorch, YOLO, MediaPipe, Supabase
 
-🔗 [View Repository](https://github.com/shreyaaspires-cloud/REPLACE_WITH_DRISHTI_REPO)
+🔗 [View Repository]([https://github.com/shreyaaspires-cloud/REPLACE_WITH_DRISHTI_REPO](https://github.com/DrishtiAI-DJSCE/DI1_52_CodeAlchemy))
 
 ### 2. CivicFix — Smart Civic Issue Reporting
 
@@ -91,7 +91,7 @@ A civic-tech platform concept for reporting public infrastructure issues and imp
 
 **Technologies:** Next.js, PostgreSQL, PostGIS, AI integration
 
-🔗 [View Repository](https://github.com/shreyaaspires-cloud/REPLACE_WITH_CIVICFIX_REPO)
+🔗 [View Repository](https://github.com/WisdomKingAR/CivicFix))
 
 ### 3. ResourceX — Shared Resource Management
 
@@ -104,7 +104,7 @@ A platform concept that enables institutions and communities to share underused 
 
 **Technologies:** Next.js, Supabase, PostgreSQL, AI integration
 
-🔗 [View Repository](https://github.com/shreyaaspires-cloud/REPLACE_WITH_RESOURCEX_REPO)
+🔗 [View Repository](https://github.com/heerdshah/CodeHack-India))
 
 ### 4. Vridhi.ai — Predictive Credit Risk Analytics
 
@@ -117,7 +117,7 @@ An AI-powered analytics platform concept focused on exploring credit risk assess
 
 **Technologies:** Python, FastAPI, Next.js, XGBoost, Random Forest, SHAP, Recharts
 
-🔗 [View Repository](https://github.com/shreyaaspires-cloud/REPLACE_WITH_VRIDHI_REPO)
+🔗 [View Repository](https://github.com/shreyaaspires-cloud/Vridhi.ai))
 
 ### 5. FlowState Focus OS — Productivity
 
@@ -129,19 +129,8 @@ A productivity-focused application concept centred on helping users organise tas
 
 **Technologies:** Add the verified technologies used in the project.
 
-🔗 [View Repository](https://github.com/shreyaaspires-cloud/REPLACE_WITH_FLOWSTATE_REPO)
+🔗 [View Repository](https://github.com/tejaskute284-dotcom/flowstate)
 
-### 6. AI-Driven Social Connectivity System
-
-A project exploring how AI can support digital interactions and improve social connectivity.
-
-- AI-assisted interaction concepts.
-- Focus on practical user needs and digital experiences.
-- Opportunity to explore intelligent features in user-facing applications.
-
-**Technologies:** Add the verified technologies used in the project.
-
-🔗 [View Repository](https://github.com/shreyaaspires-cloud/REPLACE_WITH_SOCIAL_CONNECTIVITY_REPO)
 
 ### 7. Personal Portfolio Website
 
@@ -152,8 +141,7 @@ My personal website for presenting my background, technical skills, projects, an
 - Contact section for networking and opportunities.
 
 **Technologies:** HTML, CSS, JavaScript — update to match the current implementation.
-
-🌐 [Live Portfolio](https://YOUR_PORTFOLIO_URL)  
+ 
 🔗 [Source Code](https://github.com/shreyaaspires-cloud/REPLACE_WITH_PORTFOLIO_REPO)
 
 ---
