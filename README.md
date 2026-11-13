@@ -162,23 +162,12 @@ I value the engineering lessons behind every project, including debugging, integ
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=shreyaaspires-cloud&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB"
-    alt="Shreya's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaaspires-cloud&layout=compact&hide_border=true&theme=transparent&title_color=2563EB"
-    alt="Most-used programming languages"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyaaspires-cloud&show_icons=true&theme=merko&hide_border=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaaspires-cloud&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=shreyaaspires-cloud&hide_border=true&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB"
-    alt="GitHub contribution streak"
-  />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=shreyaaspires-cloud&theme=merko&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
