@@ -78,7 +78,7 @@ An AI-assisted exam monitoring system designed to analyse examination environmen
 
 **Technologies:** Python, FastAPI, Next.js, PyTorch, YOLO, MediaPipe, Supabase
 
-🔗 [View Repository]([https://github.com/shreyaaspires-cloud/REPLACE_WITH_DRISHTI_REPO](https://github.com/DrishtiAI-DJSCE/DI1_52_CodeAlchemy))
+🔗 [View Repository](https://github.com/DrishtiAI-DJSCE/DI1_52_CodeAlchemy)
 
 ### 2. CivicFix — Smart Civic Issue Reporting
 
@@ -91,7 +91,7 @@ A civic-tech platform concept for reporting public infrastructure issues and imp
 
 **Technologies:** Next.js, PostgreSQL, PostGIS, AI integration
 
-🔗 [View Repository](https://github.com/WisdomKingAR/CivicFix))
+🔗 [View Repository](https://github.com/WisdomKingAR/CivicFix)
 
 ### 3. ResourceX — Shared Resource Management
 
