@@ -159,15 +159,28 @@ I value the engineering lessons behind every project, including debugging, integ
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 Contribution Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyaaspires-cloud&show_icons=true&theme=merko&hide_border=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaaspires-cloud&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/shreyaaspires-cloud">
+    <img
+      src="https://ghchart.rshah.org/2ea043/shreyaaspires-cloud"
+      alt="Shreya's GitHub contribution calendar"
+      width="100%"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=shreyaaspires-cloud&theme=merko&hide_border=true" alt="GitHub Contribution Streak" />
+  <i>Building consistently, one commit at a time.</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shreyaaspires-cloud&bg_color=ffffff&color=238636&line=238636&point=2ea043&area=true&hide_border=true"
+    alt="GitHub contribution activity graph"
+    width="100%"
+  />
 </p>
 
 ---
